@@ -22,7 +22,7 @@ An IMDb-inspired movie discovery web application built using React and TMDB API.
 
 1. Clone the repository
 
-git clone https://github.com/your-username/IMDB-Clone.git
+git clone https://github.com/jay-0804/IMDB-Clone.git
 
 2. Navigate into the project folder
 
